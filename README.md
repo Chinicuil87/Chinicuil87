@@ -11,3 +11,7 @@
 > [Facebook](https://www.facebook.com/23.Cesar "facebook")
 
 > [Linkedin](https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/ "Linkendin")
+
+## Habilidades.
+
+## Cursos y certificaciones.
