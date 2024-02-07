@@ -12,6 +12,12 @@
 
 > [Linkedin](https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/ "Linkendin")
 
+> [Portafolio](https://clopez.info/ "Mi portafolio")
+
+## CV
+
+
 ## Habilidades.
+
 
 ## Cursos y certificaciones.
