@@ -17,7 +17,7 @@
 ## CV
 
 
-## Habilidades.
+### Habilidades.
 
 
-## Cursos y certificaciones.
+### Cursos y certificaciones.
