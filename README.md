@@ -32,3 +32,7 @@
  
 > [Curso profesional de Git](<cert/Certificado - Curso profesional de Git.pdf>)
 
+> [Curso profesional de Python](<cert/Certificado - Curso profesional de Python.pdf>)
+
+
+
