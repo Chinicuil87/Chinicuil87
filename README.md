@@ -20,8 +20,6 @@
 <a href="https://www.facebook.com/23.Cesar">
 <img src="facebook.png" alt="icono facebook" style="width:42px;height:42px; border-radius:7px;">
 </a>
-
->
 <a href="https://clopez.info/">
 <img src="portafolio.png" alt="icono mi pagina" style="width:42px;height:42px;">
 </a>
