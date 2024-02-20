@@ -27,3 +27,6 @@
 * Bases de Datos.
 
 ### Cursos y certificaciones.
+
+>  Curso profesional de Git
+
