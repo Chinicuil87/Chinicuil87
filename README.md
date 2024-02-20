@@ -28,7 +28,7 @@
 
 ### Cursos y certificaciones.
 
-> Curso profesional de Git
-> 
-> Curso a fondo de GitHub
+> [Curso a fondo de GitHub](<cert/Certificado - Curso a fondo de GitHub.pdf>)
+ 
+> [Curso profesional de Git](<cert/Certificado - Curso profesional de Git.pdf>)
 
