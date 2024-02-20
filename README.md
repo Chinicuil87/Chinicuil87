@@ -20,7 +20,8 @@
 <img src="portafolio.png" alt="icono mi pagina" style="width:42px;height:42px;">
 </a>
 
-### Habilidades.
+##  Habilidades.
 
-
+*Manejo de control de versiones Git y GitHub.
+*
 ### Cursos y certificaciones.
