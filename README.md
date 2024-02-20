@@ -22,6 +22,7 @@
 
 ##  Habilidades.
 
-*Manejo de control de versiones Git y GitHub.
-*
+* Manejo de control de versiones Git y GitHub.
+* Desarrollo Web.
+
 ### Cursos y certificaciones.
