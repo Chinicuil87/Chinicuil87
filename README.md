@@ -15,8 +15,6 @@
 <a href="https://twitter.com/Cesar_22_">
 <img src="x.png" alt="icono x" style="width:42px;height:42px; background-color:white; border-radius:7px;">
 </a>
-
->
 <a href="https://www.facebook.com/23.Cesar">
 <img src="facebook.png" alt="icono facebook" style="width:42px;height:42px; border-radius:7px;">
 </a>
