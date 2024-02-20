@@ -24,5 +24,6 @@
 
 * Manejo de control de versiones Git y GitHub.
 * Desarrollo Web.
+* Bases de Datos.
 
 ### Cursos y certificaciones.
