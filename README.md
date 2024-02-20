@@ -29,5 +29,6 @@
 ### Cursos y certificaciones.
 
 > Curso profesional de Git
+> 
 > Curso a fondo de GitHub
 
