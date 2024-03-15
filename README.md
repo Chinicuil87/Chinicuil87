@@ -35,7 +35,9 @@
 
 > [Curso profesional de Python](<cert/Certificado - Curso profesional de Python.pdf>)
 
-> > [Curso profesional de Java]()
+> [Java para Principiantes](<cert/Certificado - Java para Principiantes.pdf>)
+
+> [Curso Profesional de JAVA](<cert/Certificado - Curso Profesional de JAVA.pdf>)
 
 
 
