@@ -1,7 +1,7 @@
 # Cesar Lopez Orihuela. 👋
 
 ## Desarrollador Web.
-| [JAVA](https://github.com/Chinicuil87/programacionJava.git) | JavaScript | [Python](https://github.com/Chinicuil87/programacionpython.git) | HTML | CSS | SQL | MySQL | 
+| [JAVA](https://github.com/Chinicuil87/programacionJava.git) | [JavaScript](https://github.com/Chinicuil87/programacionJavaScript) | [Python](https://github.com/Chinicuil87/programacionpython.git) | HTML | CSS | SQL | MySQL | 
 
 
 ## Redes Sociales.
