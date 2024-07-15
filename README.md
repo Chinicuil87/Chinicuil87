@@ -12,6 +12,8 @@
 
 ![Static Badge](https://img.shields.io/badge/DATABASE-SQL-white)
 
+![Static Badge](https://img.shields.io/badge/DATABASE-MongoDB-green)
+
 
 
 ## Redes Sociales.
