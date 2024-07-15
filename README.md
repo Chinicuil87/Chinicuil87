@@ -1,6 +1,7 @@
-<h1 align="center" id="ventas">CESAR LOPEZ ORIHUELA</h1>
+<h1 align="center" id="nombre">CESAR LOPEZ ORIHUELA</h1>
 
-## Desarrollador Web.
+<h1 align="center" id="titulo">Desarrollador Back-End</h1>
+
 | [Java](https://github.com/Chinicuil87/programacionJava.git) | [JavaScript](https://github.com/Chinicuil87/programacionJavaScript) | [Python](https://github.com/Chinicuil87/programacionpython.git) | HTML | CSS | SQL | MySQL | MongoDB |
 
 
