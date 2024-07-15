@@ -4,6 +4,15 @@
 
 | [Java](https://github.com/Chinicuil87/programacionJava.git) | [JavaScript](https://github.com/Chinicuil87/programacionJavaScript) | [Python](https://github.com/Chinicuil87/programacionpython.git) | HTML | CSS | SQL | MySQL | MongoDB |
 
+![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
+
+![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-blue)
+
+![Static Badge](https://img.shields.io/badge/LENGUAJE-JavaScript-yellow)
+
+![Static Badge](https://img.shields.io/badge/DATABASE-SQL-white)
+
+
 
 ## Redes Sociales.
 
