@@ -34,7 +34,7 @@
 
 ##  Habilidades.
 
-* Manejo de control de versiones Git y GitHub.
+* Control de versiones Git y GitHub.
 * Desarrollo Web.
 * Bases de Datos.
 * Logica de progrmacion.
