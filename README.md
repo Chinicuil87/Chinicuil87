@@ -1,17 +1,21 @@
 <h1 align="center" id="nombre">CESAR LOPEZ ORIHUELA</h1>
 
-<h1 align="center" id="titulo">Desarrollador Back-End</h1>
+<h1  id="titulo">Desarrollador Back-End</h1>
+
+<section align="center">
 
 | [Java](https://github.com/Chinicuil87/programacionJava.git) | [JavaScript](https://github.com/Chinicuil87/programacionJavaScript) | [Python](https://github.com/Chinicuil87/programacionpython.git) | HTML | CSS | SQL | MySQL | MongoDB |
 
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange) ![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-blue) ![Static Badge](https://img.shields.io/badge/LENGUAJE-JavaScript-yellow) ![Static Badge](https://img.shields.io/badge/DATABASE-SQL-white) ![Static Badge](https://img.shields.io/badge/DATABASE-MongoDB-green)
+
+</section>
 
 
 
 ## Redes Sociales.
 
 <section align="center">
-<a href="https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/">
+<a href="https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/" ma>
 <img src="/img/linkedin.png" alt="icono linkdin" style="width:42px;height:42px;">
 </a>
 <a href="https://twitter.com/Cesar_22_">
