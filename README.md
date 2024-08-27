@@ -2,9 +2,7 @@
 
 <h1 align="center" id="titulo">Desarrollador Back-End</h1>
 
-<div align="center">
 | [Java](https://github.com/Chinicuil87/programacionJava.git) | [JavaScript](https://github.com/Chinicuil87/programacionJavaScript) | [Python](https://github.com/Chinicuil87/programacionpython.git) | HTML | CSS | SQL | MySQL | MongoDB |
-</div>
 
 ![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)
 
