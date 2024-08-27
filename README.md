@@ -27,6 +27,9 @@
 <a href="https://clopez.info/">
 <img src="/img/cv.png" alt="icono mi pagina" style="width:42px;height:42px;">
 </a>
+<a href="clopezorihuela@hotmail.com">
+<img src="/img/panorama.png" alt="icono correo electronico" style="width:42px;height:42px;">
+</a>
 </section>
 
 ##  Habilidades.
