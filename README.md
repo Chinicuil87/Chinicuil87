@@ -15,7 +15,7 @@
 ## Redes Sociales.
 
 <section align="center">
-<a href="https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/" ma>
+<a href="https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/" margin="15px">
 <img src="/img/linkedin.png" alt="icono linkdin" style="width:42px;height:42px;">
 </a>
 <a href="https://twitter.com/Cesar_22_">
