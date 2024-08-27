@@ -10,7 +10,7 @@
 
 ## Redes Sociales.
 
-
+<section align="center">
 <a href="https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/">
 <img src="/img/linkedin.png" alt="icono linkdin" style="width:42px;height:42px;">
 </a>
@@ -23,6 +23,7 @@
 <a href="https://clopez.info/">
 <img src="/img/cv.png" alt="icono mi pagina" style="width:42px;height:42px;">
 </a>
+</section>
 
 ##  Habilidades.
 
