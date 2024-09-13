@@ -27,7 +27,7 @@
 <img src="/img/panorama.png" alt="icono correo electronico" style="width:42px;height:42px;">
 </a>
 <a href="https://app.aluracursos.com/user/clopezorihuela">
-<img src="/img/aluraLogo.png" alt="icono correo electronico" style="width:42px;height:42px;border-radius:10px;">
+<img src="/img/aluraLogo.png" alt="icono correo electronico" style="width:42px;height:42px; background-color:white; border-radius:7px;">
 </a>
 </section>
 
