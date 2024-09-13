@@ -4,21 +4,22 @@
 
 <section align="center">
 
-| [![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)](https://github.com/Chinicuil87/programacionJava.git) | [![Static Badge](https://img.shields.io/badge/LENGUAJE-JavaScript-yellow)](https://github.com/Chinicuil87/programacionJavaScript) | [![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-blue)](https://github.com/Chinicuil87/programacionpython.git) | HTML | CSS | ![Static Badge](https://img.shields.io/badge/DATABASE-SQL-white) | ![Static Badge](https://img.shields.io/badge/DATABASE-MongoDB-green) |
+| [![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)](https://github.com/Chinicuil87/programacionJava.git) | [![Static Badge](https://img.shields.io/badge/LENGUAJE-JavaScript-yellow)](https://github.com/Chinicuil87/programacionJavaScript) | [![ tatic Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-blue)](https://github.com/Chinicuil87/programacionpython.git) | ![Static Badge](https://img.shields.io/badge/DATABASE-SQL-white) | ![Static Badge](https://img.shields.io/badge/DATABASE-MongoDB-green) |
 
 </section>
 
 ## Redes Sociales.
 
 <section align="center">
+
 <a href="https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/">
 <img src="/img/linkedin.png" alt="icono linkdin" style="width:42px;height:42px;">
 </a>
 <a href="https://twitter.com/Cesar_22_">
-<img src="/img/logotipos.png" alt="icono x" style="width:42px;height:42px; background-color:white; border-radius:7px;">
+<img src="/img/logotipos.png" alt="icono x" style="width:42px;height:42px;">
 </a>
 <a href="https://www.facebook.com/23.Cesar">
-<img src="/img/facebook.png" alt="icono facebook" style="width:42px;height:42px; border-radius:7px;">
+<img src="/img/facebook.png" alt="icono facebook" style="width:42px;height:42px;">
 </a>
 <a href="https://clopez.info/">
 <img src="/img/cv.png" alt="icono mi pagina" style="width:42px;height:42px;">
@@ -27,8 +28,9 @@
 <img src="/img/panorama.png" alt="icono correo electronico" style="width:42px;height:42px;">
 </a>
 <a href="https://app.aluracursos.com/user/clopezorihuela">
-<img src="/img/aluraLogo.png" alt="icono correo electronico" style="width:42px;height:42px; background-color:white; border-radius:7px;">
+<img src="/img/aluraLogo.png" alt="icono alura" style="width:42px;height:42px; border-radius: 10px;">
 </a>
+
 </section>
 
 ## Habilidades.
