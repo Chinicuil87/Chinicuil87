@@ -4,13 +4,9 @@
 
 <section align="center">
 
-| [Java](https://github.com/Chinicuil87/programacionJava.git) | [JavaScript](https://github.com/Chinicuil87/programacionJavaScript) | [Python](https://github.com/Chinicuil87/programacionpython.git) | HTML | CSS | SQL | MySQL | MongoDB |
-
-![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange) ![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-blue) ![Static Badge](https://img.shields.io/badge/LENGUAJE-JavaScript-yellow) ![Static Badge](https://img.shields.io/badge/DATABASE-SQL-white) ![Static Badge](https://img.shields.io/badge/DATABASE-MongoDB-green)
+| [![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)](https://github.com/Chinicuil87/programacionJava.git) | [![Static Badge](https://img.shields.io/badge/LENGUAJE-JavaScript-yellow)](https://github.com/Chinicuil87/programacionJavaScript) | [![Static Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-blue)](https://github.com/Chinicuil87/programacionpython.git) | HTML | CSS | ![Static Badge](https://img.shields.io/badge/DATABASE-SQL-white) | ![Static Badge](https://img.shields.io/badge/DATABASE-MongoDB-green) |
 
 </section>
-
-
 
 ## Redes Sociales.
 
@@ -30,19 +26,22 @@
 <a href="mailto:clopezorihuela@hotmail.com">
 <img src="/img/panorama.png" alt="icono correo electronico" style="width:42px;height:42px;">
 </a>
+<a href="https://app.aluracursos.com/user/clopezorihuela">
+<img src="/img/aluraLogo.png" alt="icono correo electronico" style="width:42px;height:42px;border-radius:10px;">
+</a>
 </section>
 
-##  Habilidades.
+## Habilidades.
 
-* Control de versiones Git y GitHub.
-* Desarrollo Web.
-* Bases de Datos.
-* Logica de progrmacion.
+- Control de versiones Git y GitHub.
+- Desarrollo Web.
+- Bases de Datos.
+- Logica de progrmacion.
 
 ### Cursos y certificaciones.
 
 > [Curso a fondo de GitHub](<cert/Certificado - Curso a fondo de GitHub.pdf>)
- 
+
 > [Curso profesional de Git](<cert/Certificado - Curso profesional de Git.pdf>)
 
 > [Curso profesional de Python](<cert/Certificado - Curso profesional de Python.pdf>)
@@ -50,6 +49,3 @@
 > [Java para Principiantes](<cert/Certificado - Java para Principiantes.pdf>)
 
 > [Curso Profesional de JAVA](<cert/Certificado - Curso Profesional de JAVA.pdf>)
-
-
-
