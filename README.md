@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Lopez-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Cesar_22_-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Cesar_22_)
 [![Facebook](https://img.shields.io/badge/Facebook-Cesar_Lopez-1877F2?style=flat&logo=facebook)](https://www.facebook.com/23.Cesar)
-[![Website](https://img.shields.io/badge/Website-clopez.info-FF7139?style=flat&logo=google-chrome)](https://clopez.info/)
 [![Email](https://img.shields.io/badge/Email-clopezorihuela@hotmail.com-D14836?style=flat&logo=gmail)](mailto:clopezorihuela@hotmail.com)
 [![Alura](https://img.shields.io/badge/Alura-Cursos-00C4CC?style=flat&logo=alura)](https://app.aluracursos.com/user/clopezorihuela)
 
