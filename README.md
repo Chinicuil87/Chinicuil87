@@ -1,53 +1,46 @@
 <h1 align="center" id="nombre">CESAR LOPEZ ORIHUELA</h1>
 
-<h1  id="titulo">Desarrollador Back-End</h1>
+<h1 align="center" id="titulo">🚀 Desarrollador Back-End</h1>
 
 <section align="center">
 
-| [![Static Badge](https://img.shields.io/badge/LENGUAJE-JAVA-orange)](https://github.com/Chinicuil87/programacionJava.git) | [![Static Badge](https://img.shields.io/badge/LENGUAJE-JavaScript-yellow)](https://github.com/Chinicuil87/programacionJavaScript) | [![ tatic Badge](https://img.shields.io/badge/LENGUAJE-PYTHON-blue)](https://github.com/Chinicuil87/programacionpython.git) | ![Static Badge](https://img.shields.io/badge/DATABASE-SQL-white) | ![Static Badge](https://img.shields.io/badge/DATABASE-MongoDB-green) |
+| [![Java](https://img.shields.io/badge/LENGUAJE-JAVA-orange)](https://github.com/Chinicuil87/programacionJava.git) | [![JavaScript](https://img.shields.io/badge/LENGUAJE-JavaScript-yellow)](https://github.com/Chinicuil87/programacionJavaScript) | [![Python](https://img.shields.io/badge/LENGUAJE-PYTHON-blue)](https://github.com/Chinicuil87/programacionpython.git) | ![SQL](https://img.shields.io/badge/DATABASE-SQL-white) | ![MongoDB](https://img.shields.io/badge/DATABASE-MongoDB-green) |
 
 </section>
 
-## Redes Sociales.
+## 🌐 Redes Sociales
 
 <section align="center">
 
-<a href="https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/">
-<img src="/img/linkedin.png" alt="icono linkdin" style="width:42px;height:42px;">
-</a>
-<a href="https://twitter.com/Cesar_22_">
-<img src="/img/logotipos.png" alt="icono x" style="width:42px;height:42px;">
-</a>
-<a href="https://www.facebook.com/23.Cesar">
-<img src="/img/facebook.png" alt="icono facebook" style="width:42px;height:42px;">
-</a>
-<a href="https://clopez.info/">
-<img src="/img/cv.png" alt="icono mi pagina" style="width:42px;height:42px;">
-</a>
-<a href="mailto:clopezorihuela@hotmail.com">
-<img src="/img/panorama.png" alt="icono correo electronico" style="width:42px;height:42px;">
-</a>
-<a href="https://app.aluracursos.com/user/clopezorihuela">
-<img src="/img/alura.png" alt="icono alura" style="width:42px;height:42px;">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Lopez-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/cesar-lopez-orihuela-796b82271/)
+[![Twitter](https://img.shields.io/badge/Twitter-@Cesar_22_-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Cesar_22_)
+[![Facebook](https://img.shields.io/badge/Facebook-Cesar_Lopez-1877F2?style=flat&logo=facebook)](https://www.facebook.com/23.Cesar)
+[![Website](https://img.shields.io/badge/Website-clopez.info-FF7139?style=flat&logo=google-chrome)](https://clopez.info/)
+[![Email](https://img.shields.io/badge/Email-clopezorihuela@hotmail.com-D14836?style=flat&logo=gmail)](mailto:clopezorihuela@hotmail.com)
+[![Alura](https://img.shields.io/badge/Alura-Cursos-00C4CC?style=flat&logo=alura)](https://app.aluracursos.com/user/clopezorihuela)
 
 </section>
 
-## Habilidades.
+## 🛠️ Habilidades
 
 - Control de versiones Git y GitHub.
 - Desarrollo Web.
 - Bases de Datos.
-- Logica de progrmacion.
+- Lógica de programación.
 
-### Cursos y certificaciones.
+## 📚 Cursos y Certificaciones
 
-> [Curso a fondo de GitHub](<cert/Certificado - Curso a fondo de GitHub.pdf>)
+> [Curso a fondo de GitHub](cert/Certificado%20-%20Curso%20a%20fondo%20de%20GitHub.pdf)
+> [Curso profesional de Git](cert/Certificado%20-%20Curso%20profesional%20de%20Git.pdf)
+> [Curso profesional de Python](cert/Certificado%20-%20Curso%20profesional%20de%20Python.pdf)
+> [Java para Principiantes](cert/Certificado%20-%20Java%20para%20Principiantes.pdf)
+> [Curso Profesional de JAVA](cert/Certificado%20-%20Curso%20Profesional%20de%20JAVA.pdf)
 
-> [Curso profesional de Git](<cert/Certificado - Curso profesional de Git.pdf>)
+## 📊 Estadísticas de GitHub
 
-> [Curso profesional de Python](<cert/Certificado - Curso profesional de Python.pdf>)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Chinicuil87&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinicuil87&layout=compact&theme=radical)
 
-> [Java para Principiantes](<cert/Certificado - Java para Principiantes.pdf>)
+---
 
-> [Curso Profesional de JAVA](<cert/Certificado - Curso Profesional de JAVA.pdf>)
+¿Interesado en colaborar o tienes alguna pregunta? ¡No dudes en contactarme! 😊
